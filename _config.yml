@@ -1,5 +1,7 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Andreas Herbert's Cybersecurity Portfolio
+description: Blue team–focused projects in threat detection, monitoring, and incident response.
 theme: jekyll-theme-hacker
+
+show_downloads: false
+google_analytics:
+markdown: kramdown
