@@ -25,13 +25,12 @@ The system is designed to safely accept untrusted artifacts, enforce strict cust
 
 The pipeline is built in phases, each introducing additional capability while maintaining strong security boundaries.
 
-Key Capabilities:
-- Controlled ingestion of untrusted files
-- SHA-256-based identification and deduplicaiton
-- File-type detection via magic bytes
-- Quarantine enforcement with non-executable storage
-- Persistent chain-of-custody logging
+Highlights:
 
+- End-to-end malware analysis pipeline with controlled ingestion, secure quarantine, and automated analysis
+- Cryptographic hashing and chain-of-custody tracking to preserve file integrity
+- GUI-based interface for ingestion, analysis monitoring, and results review
+  
  <br>
 
 # <u> Coming soon </u>
