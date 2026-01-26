@@ -46,4 +46,3 @@ A detection engineering project focused on identifying cloud identity abuse tech
 An AI-driven phishing detection system designed to identify malicious emails using a combination of natural language processing, feature engineering, and classification models.
 
 
-[back](./)
