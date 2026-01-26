@@ -8,8 +8,9 @@ title: Projects
 This page highlights selected security engineering projects focused on cloud security, malware analysis, and defensive automation.
 Each project is designed to reflect real-world threat models, production constraints, and security best practices.
 
+ <br>
 
-### <u> 1. Secure Malware Ingestion & Analysis Pipeline </u>
+## <u> 1. Secure Malware Ingestion & Analysis Pipeline </u>
 
 My documentation: [Malware pipeline documentation](projects/malware_pipeline.md)
 
@@ -28,13 +29,13 @@ Key Capabilities:
 
 # <u> Coming soon </u>
 
-### <u> 2. Cloud Identity Abuse Detection </u>
+## <u> 2. Cloud Identity Abuse Detection </u>
 
 A detection engineering project focused on identifying cloud identity abuse techniques such as privilege escalation, anomalous token usage, and persistence through IAM misconfiguration.
 
 -----------------------------------------------------------------------------------
 
-### <u> 3. AI-Driven Phishing Detection System </u>
+## <u> 3. AI-Driven Phishing Detection System </u>
 
 An AI-driven phishing detection system designed to identify malicious emails using a combination of natural language processing, feature engineering, and classification models.
 
