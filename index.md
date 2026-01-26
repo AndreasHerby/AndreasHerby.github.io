@@ -18,14 +18,14 @@ Each project is designed to reflect real-world threat models, production constra
 
 ## <u> 1. Secure Malware Ingestion & Analysis Pipeline </u>
 
-My documentation: [Malware pipeline documentation](projects/malware_pipeline.md)
+My documentation: *[Malware pipeline documentation](projects/malware_pipeline.md)*
 
 This project implements an end-to-end malware ingestion and analysis pipeline modeled after production-grade security platforms.
 The system is designed to safely accept untrusted artifacts, enforce strict custody controls, perform layered analysis, and produce actionable security insights.
 
 The pipeline is built in phases, each introducing additional capability while maintaining strong security boundaries.
 
-Highlights:
+**Highlights**:
 
 - End-to-end malware analysis pipeline with controlled ingestion, secure quarantine, and automated analysis
 - Cryptographic hashing and chain-of-custody tracking to preserve file integrity
