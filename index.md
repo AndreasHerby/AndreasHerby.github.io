@@ -5,6 +5,8 @@ title: Home
 
 # <u> Home Page and About Me </u>
 
+I am a first-year cybersecurity student at Leeds Beckett University focused on building practical security systems. This site documents hands-on projects and applied learning across multiple areas of cybersecurity beyond formal coursework.
+
 <br>
 
 # <u> Project Navigation </u>
