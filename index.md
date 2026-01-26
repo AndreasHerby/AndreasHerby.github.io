@@ -14,7 +14,7 @@ I am a first-year cybersecurity student at Leeds Beckett University focused on b
 This page highlights selected security engineering projects focused on cloud security, malware analysis, and defensive automation.
 Each project is designed to reflect real-world threat models, production constraints, and security best practices.
 
- <br>
+
 
 ## <u> 1. Secure Malware Ingestion & Analysis Pipeline </u>
 
