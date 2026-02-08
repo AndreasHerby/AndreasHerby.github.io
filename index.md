@@ -41,11 +41,11 @@ This project demonstrates the design and security hardening of a small enterpris
 
 **Highlights**
 
--Designed a small enterprise network with logical segmentation using multiple VLANs for users, administrators, servers, and management traffic
--Implemented inter-VLAN routing with a router-on-a-stick architecture and 802.1Q trunking between network devices
--Applied Access Control Lists (ACLs) to enforce least-privilege communication and restrict traffic between VLANs
--Secured network device management by disabling Telnet, enabling SSH, and limiting administrative access to the Admin VLAN
--Hardened the network by disabling unused switch ports and reducing the overall attack surface
+- Designed a small enterprise network with logical segmentation using multiple VLANs for users, administrators, servers, and management traffic
+- Implemented inter-VLAN routing with a router-on-a-stick architecture and 802.1Q trunking between network devices
+- Applied Access Control Lists (ACLs) to enforce least-privilege communication and restrict traffic between VLANs
+- Secured network device management by disabling Telnet, enabling SSH, and limiting administrative access to the Admin VLAN
+- Hardened the network by disabling unused switch ports and reducing the overall attack surface
 
 # <u> Coming soon </u>
 
