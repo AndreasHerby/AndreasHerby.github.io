@@ -35,6 +35,18 @@ The pipeline is built in phases, each introducing additional capability while ma
 
 ## <u> 2. VLAN-Based Enterprise Network Design
 
+My documentation: 
+
+This project demonstrates the design and security hardening of a small enterprise-style network using Cisco Packet Tracer. It includes VLAN segmentation, inter-VLAN routing, access control with ACLs, and secure network device management following enterprise best practices.
+
+**Highlights**
+
+-Designed a small enterprise network with logical segmentation using multiple VLANs for users, administrators, servers, and management traffic
+-Implemented inter-VLAN routing with a router-on-a-stick architecture and 802.1Q trunking between network devices
+-Applied Access Control Lists (ACLs) to enforce least-privilege communication and restrict traffic between VLANs
+-Secured network device management by disabling Telnet, enabling SSH, and limiting administrative access to the Admin VLAN
+-Hardened the network by disabling unused switch ports and reducing the overall attack surface
+
 # <u> Coming soon </u>
 
 ## <u> 2. Cloud Identity Abuse Detection </u>
