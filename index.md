@@ -35,7 +35,7 @@ The pipeline is built in phases, each introducing additional capability while ma
 
 ## <u> 2. VLAN-Based Enterprise Network Design
 
-My documentation: 
+My documentation: *[Enterprise network documentation](projects/enterprise_network.md)*
 
 This project demonstrates the design and security hardening of a small enterprise-style network using Cisco Packet Tracer. It includes VLAN segmentation, inter-VLAN routing, access control with ACLs, and secure network device management following enterprise best practices.
 
