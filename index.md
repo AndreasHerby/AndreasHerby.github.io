@@ -31,7 +31,9 @@ The pipeline is built in phases, each introducing additional capability while ma
 - Cryptographic hashing and chain-of-custody tracking to preserve file integrity
 - GUI-based interface for ingestion, analysis monitoring, and results review
   
- <br>
+<br>
+
+## <u> 2. VLAN-Based Enterprise Network Design
 
 # <u> Coming soon </u>
 
