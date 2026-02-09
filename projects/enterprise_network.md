@@ -11,8 +11,6 @@ This project documents the design, implementation, and security hardening of a s
 
 Rather than only achieving connectivity, this project emphasizes verification, troubleshooting, and defense-in-depth principles commonly used in enterprise environments.
 
-<!-- Screenshot: Final network topology in Cisco Packet Tracer -->
-
 ---
 
 ## Network Topology and Design
@@ -43,7 +41,7 @@ VLANs were implemented to logically separate traffic, reduce broadcast domains, 
 
 Each end device was assigned to an access port mapped to its appropriate VLAN.
 
-<!-- Screenshot: show vlan brief output -->
+![vlan brief image](./network_assets/vlan.png)
 
 ---
 
