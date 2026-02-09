@@ -51,7 +51,7 @@ An 802.1Q trunk was configured between the switch and the router to carry multip
 
 During implementation, a misconfiguration where the trunk port was incorrectly set as an access port was identified and corrected, reinforcing the importance of trunk verification.
 
-<!-- Screenshot: show interfaces trunk output -->
+![trunk interface output](./network_assets/trunk.png)
 
 ---
 
