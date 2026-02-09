@@ -27,7 +27,7 @@ Rather than only achieving connectivity, this project emphasizes verification, t
 
 The network uses a centralized access switch with a single trunk uplink to the router. End devices connect to access ports on the switch, while inter-VLAN communication is handled by the router.
 
-![logical_topology](/network_assets/topology.png)
+![logical_topology](./network_assets/topology.png)
 
 ---
 
