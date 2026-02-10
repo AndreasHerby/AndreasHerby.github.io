@@ -74,7 +74,9 @@ Each VLAN was assigned its own IP subnet. End devices were configured with:
 
 This configuration enabled both intra-VLAN communication and routed traffic between VLANs.
 
-<!-- Screenshot: Example PC IP configuration -->
+Bellow is an example of ip configuration for a user PC:
+
+![ip config example image](./network_assets/ip_config.png)
 
 ---
 
