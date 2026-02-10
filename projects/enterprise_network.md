@@ -61,7 +61,7 @@ Inter-VLAN routing was implemented using a router-on-a-stick architecture. Subin
 
 This allowed controlled communication between VLANs while maintaining logical segmentation.
 
-<!-- Screenshot: Router subinterface configuration -->
+![subinterfaces breif image](./network_assets/subinterfaces.png)
 
 ---
 
