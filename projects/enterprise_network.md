@@ -90,7 +90,7 @@ Network functionality was verified using standard Cisco diagnostic commands incl
 
 Successful verification confirmed correct VLAN membership, trunk operation, routing, and basic connectivity. Troubleshooting steps were used throughout the project to identify and resolve configuration issues.
 
-<!-- Screenshot: Successful ping tests between VLANs -->
+![server ping from a user pc example](./network_assets/server_ping.png)
 
 ---
 
